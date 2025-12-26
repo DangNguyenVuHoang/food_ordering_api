@@ -1,0 +1,15 @@
+{
+  "name": "food-ordering-api",
+  "version": "1.0.0",
+  "description": "Practice Node.js + Express + Sequelize with db_food",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "mysql2": "^3.11.0",
+    "sequelize": "^6.37.0"
+  }
+}
